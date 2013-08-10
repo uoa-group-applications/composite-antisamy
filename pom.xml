@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>nz.ac.auckland</groupId>
-		<artifactId>uoa-parent</artifactId>
-		<version>1.8</version>
+		<groupId>nz.ac.auckland.groupapps.parent</groupId>
+		<artifactId>parent-groupapps-central</artifactId>
+		<version>1.1</version>
 	</parent>
 	
 	<groupId>nz.ac.auckland.composite</groupId>
@@ -16,6 +16,12 @@
 		Antisamy used to validate and filter content for XSS using a policy file.
 	</description>
 	
+	<scm>
+		<url>https://github.com/uoa-group-applications/composite-antisamy</url>
+		<connection>scm:git:https://github.com/uoa-group-applications/composite-antisamy.git</connection>
+		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-antisamy.git</developerConnection>
+	</scm>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.owasp.antisamy</groupId>
