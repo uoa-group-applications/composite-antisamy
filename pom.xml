@@ -26,7 +26,7 @@
 		<dependency>
 			<groupId>org.owasp.antisamy</groupId>
 			<artifactId>antisamy</artifactId>
-			<version>[1.4.5]</version>
+			<version>[1.5.3]</version>
 			<exclusions>
 				<!-- Included in JDK6 -->
 				<exclusion>
