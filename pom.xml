@@ -9,7 +9,7 @@
 	<groupId>nz.ac.auckland.composite</groupId>
 	<artifactId>composite-antisamy</artifactId>
 	<name>composite-antisamy</name>
-	<version>1.3-SNAPSHOT</version>
+	<version>1.4-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
 	<description>
