@@ -9,7 +9,7 @@
 	<groupId>nz.ac.auckland.composite</groupId>
 	<artifactId>composite-antisamy</artifactId>
 	<name>composite-antisamy</name>
-	<version>1.4</version>
+	<version>1.5-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
 	<description>
@@ -20,7 +20,7 @@
 		<url>https://github.com/uoa-group-applications/composite-antisamy</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/composite-antisamy.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-antisamy.git</developerConnection>
-	  <tag>composite-antisamy-1.4</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<dependencies>
